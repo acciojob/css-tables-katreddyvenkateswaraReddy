@@ -6,9 +6,9 @@ td, th {
 }
 
 tr:nth-child(odd) td{
-  background-color: rgb(255, 255, 255);
+  background-color: #f2f2f2;
 }
 
 tr:nth-child(even) td{
-  background-color: rgb(242, 242, 242);
+  background-color: #ffffff;
 }
